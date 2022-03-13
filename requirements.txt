@@ -32,3 +32,6 @@ six
 urllib3
 Whoosh
 xlrd
+djangorestframework
+markdown
+django-filter
