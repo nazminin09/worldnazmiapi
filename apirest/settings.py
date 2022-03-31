@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-%argb-7%al@(4+bwea3!kml8!urh&hybz5xgh8z8^kd!#c%1ej
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['api-nazmi-test-nazmi-project.apps.ocp.tmrnd.com.my','10.10.42.58:8080']
+ALLOWED_HOSTS = ['api-nazmi-test-nazmi-project.apps.ocp.tmrnd.com.my','10.10.42.58:8080','10.10.42.58']
 
 
 # Application definition
