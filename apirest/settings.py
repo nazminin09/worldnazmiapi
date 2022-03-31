@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-%argb-7%al@(4+bwea3!kml8!urh&hybz5xgh8z8^kd!#c%1ej'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['api-nazmi-test-nazmi-project.apps.ocp.tmrnd.com.my']
 
